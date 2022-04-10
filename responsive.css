@@ -12,7 +12,7 @@ h1{
     width: 42%;
 }
 .card{
-    padding-left: 1%;
+    padding-left: 0%;
 
 }
 main{
@@ -36,15 +36,21 @@ main{
     padding-left: 5rem !important;
 }
 .scale125.wrapperAirvisualWidget-62503809e80a527e85a0fde2{
-    width: 23rem !important;
+    width: 20rem !important;
 
     height: 11rem;
     margin-top: 15%;
 }
 .wrapperAirvisualWidget-62503809e80a527e85a0fde2{
 width: 20%;
-
-
 }
+
+.outdoor-aqius{
+    position: relative;
+    left: -4px;
+}
+
+
+
 
 }
