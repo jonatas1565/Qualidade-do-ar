@@ -1,0 +1,50 @@
+@media (max-width:800px){
+h1{
+    
+    left: 0;
+    font-size: 30px;
+    width: 12rem;
+    height: 10rem;
+    top: 14px;
+}
+#img-principal{
+    left:0;
+    width: 42%;
+}
+.card{
+    padding-left: 1%;
+
+}
+main{
+    
+    height: 31.8rem;
+}
+#vento{
+ left:1.2rem;
+ bottom: 10.9rem;
+}
+.itemWeather{
+    width:10rem;
+}
+.outdoor-weather-value {
+    padding-right: 7px !important;
+}
+ .itemAirvisualWidget {
+    margin-left: -2.5px !important;
+} 
+.legendAirvisualWidget-62503809e80a527e85a0fde2{
+    padding-left: 5rem !important;
+}
+.scale125.wrapperAirvisualWidget-62503809e80a527e85a0fde2{
+    width: 23rem !important;
+
+    height: 11rem;
+    margin-top: 15%;
+}
+.wrapperAirvisualWidget-62503809e80a527e85a0fde2{
+width: 20%;
+
+
+}
+
+}

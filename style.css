@@ -2,8 +2,10 @@
     margin: 0;
     padding:0;
     box-sizing: border-box;
+    overflow: hidden;
 }
 h1{
+    visibility: hidden;
     font-family: 'fredoka One', cursive;
     width: 28rem;
     font-size: 75px;
@@ -12,6 +14,7 @@ h1{
     padding-top: 3%;
 }
 header{
+
     display: inline-flex;
 }
 #img-principal{
@@ -20,13 +23,10 @@ header{
     left: 34%;
 }
 main{
+    height: 15.96rem;
     background-color: #12CDD4;
 }
 
-#resultado{
-    display: block;
-    background-color: aquamarine;
-}
 
 .card{
     
@@ -35,6 +35,7 @@ main{
     padding-top: 2%;
 }
 #vento{
+    visibility: hidden;
     width: 65px;
     height: 60px;
     z-index: 0;
