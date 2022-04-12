@@ -1,4 +1,7 @@
 @media (max-width:800px){
+    header{
+        justify-content: flex-end;
+    }
 h1{
     
     left: 0;
@@ -17,7 +20,7 @@ h1{
 }
 main{
     
-    height: 31.8rem;
+    height: 300rem;
 }
 #vento{
  left:1.2rem;
